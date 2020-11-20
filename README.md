@@ -21,4 +21,4 @@ This project works with data collected from the donor database of Blood Transfus
 * scikit-learn
 * TPOT library
 
-_This project is completed by me during the Data Analyst trainee process assigned by the (Ankit Hasija)-Admin of MedTourEasy_
+_Project completed during the Data Analyst trainee process assigned by the (Ankit Hasija)-Admin of MedTourEasy_
